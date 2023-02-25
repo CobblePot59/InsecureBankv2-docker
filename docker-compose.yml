@@ -1,0 +1,9 @@
+version: '3'
+services:
+  app:
+    build: BUILD
+    image: insecurebankv2
+    container_name: insecurebankv2
+    restart: always
+    ports:
+      - 8888:8888
