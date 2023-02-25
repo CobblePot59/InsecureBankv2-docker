@@ -18,5 +18,6 @@ adb install InsecureBankv2.apk
 4) Open InsecureBankv2 and configure it with server ip
 ![alt text](https://raw.githubusercontent.com/CobblePot59/InsecureBankv2-docker/main/server.png)
 5) Login and have a fun ;)
-![alt text](https://raw.githubusercontent.com/CobblePot59/mageni2-docker/main/login.png)
+![alt text](https://raw.githubusercontent.com/CobblePot59/InsecureBankv2-docker/main/login.png)
+
 __Remarque :__ The credentials are dinesh/Dinesh@123$ or jack/Jack@123$
