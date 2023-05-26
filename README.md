@@ -16,8 +16,8 @@ docker compose up -d --build
 adb install InsecureBankv2.apk
 ```
 4) Open InsecureBankv2 and configure it with server ip
-<img src="https://raw.githubusercontent.com/CobblePot59/InsecureBankv2-docker/main/server.png" width="200" height="400">
+<img src="https://raw.githubusercontent.com/CobblePot59/InsecureBankv2-docker/main/pictures/server.png" width="200" height="400">
 5) Login and have a fun ;)
-<img src="https://raw.githubusercontent.com/CobblePot59/InsecureBankv2-docker/main/login.png" width="200" height="400">
+<img src="https://raw.githubusercontent.com/CobblePot59/InsecureBankv2-docker/main/pictures/login.png" width="200" height="400">
 
 __Remarque :__ The credentials are dinesh/Dinesh@123$ or jack/Jack@123$
