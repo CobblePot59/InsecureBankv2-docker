@@ -15,6 +15,10 @@ docker compose up -d --build
 ```
 adb install InsecureBankv2.apk
 ```
+Or install the app on a newer Android device.
+```
+adb install --bypass-low-target-sdk-block InsecureBankv2.apk
+```
 4) Open InsecureBankv2 and configure it with server ip
 <img src="https://raw.githubusercontent.com/CobblePot59/InsecureBankv2-docker/main/pictures/server.png" width="200" height="400">
 5) Login and have a fun ;)
