@@ -11,9 +11,9 @@ git clone https://github.com/CobblePot59/InsecureBankv2-docker.git
 ```
 docker compose up -d --build
 ```
-3) Install the app on the Android KitKat device.
+3) Install the app on the Android device.
 ```
-adb install InsecureBankv2.apk
+adb install --bypass-low-target-sdk-block InsecureBankv2.apk
 ```
 4) Open InsecureBankv2 and configure it with server ip
 <img src="https://raw.githubusercontent.com/CobblePot59/InsecureBankv2-docker/main/pictures/server.png" width="200" height="400">
